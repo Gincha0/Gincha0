@@ -36,7 +36,6 @@ Most of my work is in private repositories — [edgeoptic.com](https://edgeoptic
 
 ### Currently
 
-- **CONVEX** — compact PC hardware venture, early stage
 - Associate Degree in IT at Alberta College, Riga
 - Using Claude Code and AI tooling in daily development
 

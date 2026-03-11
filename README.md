@@ -46,7 +46,6 @@ Brand site for a personal PC case design concept — built to practice animation
 
 ### Currently
 
-- **CONVEX** — personal PC case design concept, early stage
 - Associate Degree in IT at Alberta College, Riga
 - Using Claude Code and AI tooling in daily development
 

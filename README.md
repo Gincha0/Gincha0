@@ -34,8 +34,19 @@ Most of my work is in private repositories — [edgeoptic.com](https://edgeoptic
 
 ---
 
+### Personal projects
+
+| Project | Stack | |
+|---------|-------|---|
+| [CONVEX Brand Site](https://github.com/Gincha0/Convex_Brand_site) | Next.js, TypeScript, Tailwind CSS, Framer Motion | Personal side project |
+
+Brand site for a personal PC case design concept — built to practice animation sequences, component architecture, and brand systems in Next.js.
+
+---
+
 ### Currently
 
+- **CONVEX** — personal PC case design concept, early stage
 - Associate Degree in IT at Alberta College, Riga
 - Using Claude Code and AI tooling in daily development
 
